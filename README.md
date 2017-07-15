@@ -8,5 +8,6 @@
 
 1. Download Zip
 2. Type npm install
-3. Type node macbeth
+3. Type node macbeth or npm test if you want to see the test cases
 4. Watch the output in the terminal
+
