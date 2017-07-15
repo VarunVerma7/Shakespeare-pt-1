@@ -1,0 +1,22 @@
+{
+    "name": "zinc-challenge",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha **/utils.test.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "requestify": "^0.2.5",
+        "xml2js": "^0.4.17",
+        "xml2json": "^0.11.0"
+    },
+    "devDependencies": {
+        "chai": "^4.1.0",
+        "expect": "^1.20.2",
+        "mocha": "^3.4.2",
+        "supertest": "^3.0.0"
+    }
+}
